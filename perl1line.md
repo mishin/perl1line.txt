@@ -10,13 +10,13 @@ Latest version of this file is always at:
 
 This file is also available in other languages:
 
-    [Chinese:](https://github.com/vinian/perl1line.txt)
+[Chinese:](https://github.com/vinian/perl1line.txt)
 
     Please email me peter@catonmat.net if you wish to translate it.
 
 Perl One-Liners on Github:
  
-    [perl1line.txt](https://github.com/pkrumins/perl1line.txt)
+[perl1line.txt](https://github.com/pkrumins/perl1line.txt)
 
     You can send me pull requests over GitHub! I accept bug fixes,
     new one-liners, translations and everything else related.
@@ -24,16 +24,16 @@ Perl One-Liners on Github:
 I have also written "Perl One-Liners Explained" ebook that's based on
 this file. It explains all the one-liners here. Get it at:
 
-    [http://www.catonmat.net/blog/perl-book/](http://www.catonmat.net/blog/perl-book/)
+[http://www.catonmat.net/blog/perl-book/](http://www.catonmat.net/blog/perl-book/)
 
 No Starch Press has published "Perl One-Liners" as a real book too:
 
-    [http://nostarch.com/perloneliners](http://nostarch.com/perloneliners)
+[http://nostarch.com/perloneliners](http://nostarch.com/perloneliners)
 
 These one-liners work both on UNIX systems and Windows. Most likely your
 UNIX system already has Perl. For Windows get the Strawberry Perl at:
 
-    [http://www.strawberryperl.com/](http://www.strawberryperl.com/)
+[http://www.strawberryperl.com/](http://www.strawberryperl.com/)
 
 Table of contents:
 
@@ -569,7 +569,7 @@ I have written an ebook based on the one-liners in this file. If you wish to
 support my work and learn more about these one-liners, you can get a copy
 of my ebook at:
 
-    [http://www.catonmat.net/blog/perl-book/](http://www.catonmat.net/blog/perl-book/)
+[http://www.catonmat.net/blog/perl-book/](http://www.catonmat.net/blog/perl-book/)
 
 The ebook is based on the 7-part article series that I wrote on my blog.
 In the ebook I reviewed all the one-liners, improved explanations, added
@@ -578,13 +578,13 @@ and summary of commonly used special variables.
 
 You can read the original article series here:
 
-    [perl-one-liners-explained-part-one](http://www.catonmat.net/blog/perl-one-liners-explained-part-one/)
-    [perl-one-liners-explained-part-two](http://www.catonmat.net/blog/perl-one-liners-explained-part-two/)
-    [perl-one-liners-explained-part-three](http://www.catonmat.net/blog/perl-one-liners-explained-part-three/)
-    [perl-one-liners-explained-part-four](http://www.catonmat.net/blog/perl-one-liners-explained-part-four/)
-    [perl-one-liners-explained-part-five](http://www.catonmat.net/blog/perl-one-liners-explained-part-five/)
-    [perl-one-liners-explained-part-six](http://www.catonmat.net/blog/perl-one-liners-explained-part-six/)
-    [perl-one-liners-explained-part-seven](http://www.catonmat.net/blog/perl-one-liners-explained-part-seven/)
+[perl-one-liners-explained-part-one](http://www.catonmat.net/blog/perl-one-liners-explained-part-one/)
+[perl-one-liners-explained-part-two](http://www.catonmat.net/blog/perl-one-liners-explained-part-two/)
+[perl-one-liners-explained-part-three](http://www.catonmat.net/blog/perl-one-liners-explained-part-three/)
+[perl-one-liners-explained-part-four](http://www.catonmat.net/blog/perl-one-liners-explained-part-four/)
+[perl-one-liners-explained-part-five](http://www.catonmat.net/blog/perl-one-liners-explained-part-five/)
+[perl-one-liners-explained-part-six](http://www.catonmat.net/blog/perl-one-liners-explained-part-six/)
+[perl-one-liners-explained-part-seven](http://www.catonmat.net/blog/perl-one-liners-explained-part-seven/)
 
 
 CREDITS
