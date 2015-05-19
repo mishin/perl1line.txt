@@ -590,12 +590,12 @@ You can read the original article series here:
 CREDITS
 -------
 
-Andy Lester       [http://www.petdance.com](http://www.petdance.com)
-Shlomi Fish       [http://www.shlomifish.org](http://www.shlomifish.org)
-Madars Virza      [http://www.madars.org](http://www.madars.org)
-caffecaldo        [https://github.com/caffecaldo](https://github.com/caffecaldo)
-Kirk Kimmel       [https://github.com/kimmel](https://github.com/kimmel)
-avar              [https://github.com/avar](https://github.com/avar)
+Andy Lester       [http://www.petdance.com](http://www.petdance.com)  
+Shlomi Fish       [http://www.shlomifish.org](http://www.shlomifish.org)  
+Madars Virza      [http://www.madars.org](http://www.madars.org)  
+caffecaldo        [https://github.com/caffecaldo](https://github.com/caffecaldo)  
+Kirk Kimmel       [https://github.com/kimmel](https://github.com/kimmel)  
+avar              [https://github.com/avar](https://github.com/avar)  
 rent0n
 
 
