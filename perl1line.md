@@ -6,7 +6,7 @@ http://www.catonmat.net -- good coders code, great reuse
 
 Latest version of this file is always at:
 
-    [http://www.catonmat.net/download/perl1line.txt](http://www.catonmat.net/download/perl1line.txt)
+[http://www.catonmat.net/download/perl1line.txt](http://www.catonmat.net/download/perl1line.txt)
 
 This file is also available in other languages:
 
